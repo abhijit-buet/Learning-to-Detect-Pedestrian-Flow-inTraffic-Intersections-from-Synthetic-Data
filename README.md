@@ -2,7 +2,7 @@
 
 <h6>
  The goal of this research project was to detect pedestrian flow at the traffic intersection. As there was no available dataset to accomplish the task, we have created a synthetic pedestrian dataset using GTA V video game. 
- Then we have performed domain adaptaion using Cycle GAN, translating the synthetic images to photo-realistic images. In the end, we have finetuned our PedestrianNet using a small amount of real data.
+ Then we performed domain adaptaion using Cycle GAN, translating the synthetic images to photo-realistic images. In the end, we finetuned our PedestrianNet using a small amount of real data.
   
 <h1> Proposed Framework  
  <h6> 

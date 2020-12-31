@@ -14,7 +14,7 @@
    Our proposed PedestrianNet is a two branch CNN network where we have used AlexNet as feature extractor.
    We required two branch as the input consists of image frames and their corresponding optical flow.
    
-   <h1> PedestrianNet  
+   <h1> PedestrianFlowNet  
   <h6>
      <img src="https://github.com/abhijit-buet/Images/blob/main/AlexNet.PNG" width="512" height = "350">
     

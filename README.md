@@ -8,7 +8,7 @@
    Our Synthetic Traffic-intersection Pedestrian Dataset will be released soon.
 <h1> Proposed Framework  
  <h6> 
-  <img src="https://github.com/abhijit-buet/Images/blob/main/Summary.PNG" width="512" height = "350">
+  <img src="https://github.com/abhijit-buet/Learning-to-Detect-Pedestrian-Flow-inTraffic-Intersections-from-Synthetic-Data/blob/main/frame.PNG" width="512" height = "350">
    
    
    Our proposed PedestrianNet is a two branch CNN network where we have used AlexNet as feature extractor.

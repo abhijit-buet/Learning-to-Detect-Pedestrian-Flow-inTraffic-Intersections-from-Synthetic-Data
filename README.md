@@ -23,4 +23,4 @@
     
    Here, The PCNet detects pedestrian flow in three different direction - from left to right, from right to left and combined number of pedestrian. I compared the result with YOLO V3 as a human detector. Mean Absolute Error(MAE) and Mean Square Error(MSE) were used as evaluation metric.
    
-   <img src="https://github.com/abhijit-buet/Learning-to-Detect-Pedestrian-Flow-inTraffic-Intersections-from-Synthetic-Data/blob/main/result.PNG" width="768" height = "232">
+   <img src="https://github.com/abhijit-buet/Learning-to-Detect-Pedestrian-Flow-inTraffic-Intersections-from-Synthetic-Data/blob/main/result.PNG" width="265" height = "128">
